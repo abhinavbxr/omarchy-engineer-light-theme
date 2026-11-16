@@ -1,0 +1,32 @@
+# Engineer Light (Kanagawa Lotus-inspired)
+mode = "light"
+
+accent = "#4d699b"
+selection = "#c7d7e0"
+muted = "#8a8980"
+
+background = "#f2ecbc"
+dark_background = "#e7dba0"
+darker_background = "#dcd5ac"
+lighter_background = "#fdf8d9"
+
+foreground = "#545464"
+dark_foreground = "#716e61"
+light_foreground = "#43436c"
+bright_foreground = "#363646"
+
+red = "#c84053"
+yellow = "#77713f"
+orange = "#cc6d00"
+green = "#6f894e"
+cyan = "#597b75"
+blue = "#4d699b"
+magenta = "#b35b79"
+brown = "#836f4a"
+
+bright_red = "#d7474b"
+bright_yellow = "#de9800"
+bright_green = "#6e915f"
+bright_cyan = "#5e857a"
+bright_blue = "#6693bf"
+bright_magenta = "#624c83"
