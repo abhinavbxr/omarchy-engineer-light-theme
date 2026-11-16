@@ -19,17 +19,17 @@ omarchy theme set engineer-light
 
 ## Palette
 
-Kanagawa Lotus-inspired light palette defined in `colors.toml`:
+Kanagawa **Lotus**-inspired palette defined in `colors.toml` (Omarchy color roles mapped from corresponding Kanagawa Lotus palette colors):
 
 | Role | Color |
 | --- | --- |
 | Background | `#f2ecbc` |
 | Foreground | `#545464` |
 | Accent | `#4d699b` |
-| Selection | `#c7d7e0` |
+| Selection | `#b5cbd2` |
 | Muted | `#8a8980` |
 
-Omarchy generates application themes from `colors.toml`.
+Omarchy generates application themes from `colors.toml`. All primary/bright color slots in `colors.toml` are mapped from Kanagawa Lotus colors (e.g. `lotusRed`/`lotusRed2`, `lotusBlue4`/`lotusTeal2`, `lotusGreen`/`lotusGreen2`, `lotusAqua`/`lotusAqua2`, `lotusPink`/`lotusViolet4`, etc.).
 
 ## Backgrounds
 
